@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://zaatn.github.io/tcr/sitemap.tcr.gz
